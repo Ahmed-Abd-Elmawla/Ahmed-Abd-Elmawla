@@ -1,118 +1,24 @@
-# Hi 👋, I'm Ahmed Abd El-Mawla
+# 💫 About Me:
+I’m a Backend Engineer specialized in Laravel with hands-on experience building scalable, real-world systems including:<br><br>🚗 Car rental platforms<br>🏠 Real estate & maintenance systems<br>🛒 eCommerce & blogging platforms<br>🧳 Tourism & booking systems
 
-🚀 Backend Laravel Developer | API Architect | Full-Stack Experience  
-📍 Cairo, Egypt 🇪🇬
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abd-el-mawla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.abdelmawla312@gmail.com) 
 
-## 🧠 About Me
-I’m a **Backend Engineer specialized in Laravel** with hands-on experience building **scalable, real-world systems** including:
+# 💻 Tech Stack:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-Abd-Elmawla&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahmed-Abd-Elmawla&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abd-Elmawla&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🚗 Car rental platforms
-- 🏠 Real estate & maintenance systems
-- 🛒 eCommerce & blogging platforms
-- 🧳 Tourism & booking systems
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-Abd-Elmawla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I focus on **clean architecture, performance, and reliability**, and I enjoy working in agile teams to deliver high-quality software that solves real problems.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- **Laravel**
-- PHP
-- RESTful API Design
-- Authentication & Authorization
-- Firebase Cloud Messaging (FCM)
-
-### Frontend (Working Knowledge)
-- JavaScript
-- Angular
-- Vue.js
-- HTML5 / CSS3 / Bootstrap
-
-### Database & DevOps
-- MySQL
-- Linux
-- DigitalOcean
-- Git & GitHub
-- CI/CD Basics
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ahmed-Abd-Elmawla&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ahmed-Abd-Elmawla&icon=8&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Professional Experience
-
-### 🏢 Backend Laravel Developer  
-**Sun Pyramids Tours** — *Jan 2025 – Present*
-- Developed new booking features and fixed production issues
-- Built **internal operational dashboards using Laravel + Filament**
-- Deployed and managed servers on DigitalOcean
-- Improved performance and reliability of tourism platforms
-
-### 🏢 Backend Laravel Developer  
-**Secret-Technology** — *Jan 2024 – Dec 2024*
-- Designed RESTful APIs for mobile apps and dashboards (Vue & React)
-- Worked on car reservation and maintenance systems
-- Collaborated in agile teams using Git version control
-
-### 🏢 Full Stack Laravel Developer  
-**Msar Web** — *Mar 2023 – Dec 2023*
-- Built blogging and maintenance platforms
-- Delivered full-stack features with strong backend focus
-
----
-
-## 🔥 Featured Projects
-
-### 🚗 OnCar (Saudi Arabia)
-- Backend system for a car rental platform
-- Laravel APIs powering mobile apps & Vue dashboard
-- Long-term support during beta testing
-
-### ❄️ Temp (Maintenance System)
-- Full backend for AC maintenance management
-- Real-time notifications using Firebase (FCM)
-- Admin dashboard + mobile apps (client & technician)
-
-### 🚘 CarVIP
-- Mobile backend for car rentals
-- SMS & Firebase notifications
-- Deployment & server management
-
----
-
-## 📊 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abd-Elmawla&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abd-Elmawla&layout=compact)
-
----
-
-## 🎓 Education & Certifications
-- 🎓 **BSc Computer Science Engineering** — Menoufia University
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🏫 ITI Full-Stack PHP Diploma
-
----
-
-## 🌍 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-abd-el-mawla/
-- 🧑‍💻 GitHub: https://github.com/Ahmed-Abd-Elmawla
-<!-- - 🌐 Website: https://sunpyramidstours.com/ -->
-
-⭐️ Always open to collaboration and challenging backend problems!
-
-<!--
-**Ahmed-Abd-Elmawla/Ahmed-Abd-Elmawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
